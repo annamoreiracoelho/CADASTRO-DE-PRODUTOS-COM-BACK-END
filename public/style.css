@@ -106,9 +106,6 @@ tbody tr:hover {
 tbody tr:last-child td {
     border-bottom: none;
 }
-
-/* Ajuste para telas menores */
-
 @media (max-width: 600px) {
 
     body {
