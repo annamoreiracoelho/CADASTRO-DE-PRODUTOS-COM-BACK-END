@@ -13,10 +13,15 @@ E o arquivo script.js é responsável pela interação da página com o servidor
 
 # Back-End
 O arquivo server.js utiliza Node.js e Express para criar o servidor.
+
 O servidor possui três principais rotas:
+
 POST /produtos → cadastra um novo produto;
+
 GET /produtos → busca os produtos cadastrados;
+
 DELETE /produtos/:id → exclui um produto pelo seu ID.
+
 Também realiza uma validação dos dados. O nome precisa ser informado, o preço deve ser maior que zero e a quantidade não pode ser negativa.
 
 # Banco de Dados
