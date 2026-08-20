@@ -1,10 +1,11 @@
 # CADASTRO-DE-PRODUTOS-COM-BACK-END
 
 Explicação do Código
+
 O projeto é uma aplicação Web para cadastro de produtos, desenvolvida utilizando HTML, CSS, JavaScript, Node.js, Express e JSON.
 Ele permite cadastrar produtos informando nome, preço e quantidade, e visualizar os produtos cadastrados em uma tabela e excluir produtos quando necessário.
 
-Front-end
+# Front-end
 
 No index.html é responsável pela estrutura da página. Ele possui um formulário para cadastrar os produtos e uma tabela para mostrar os produtos cadastrados.
 Já no style.css é responsável pela aparência da página. Ele define cores, tamanhos, espaçamentos, bordas e sombras.
